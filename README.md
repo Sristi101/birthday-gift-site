@@ -7,7 +7,7 @@ A personalized birthday celebration website built with HTML and CSS.
 A fun and interactive webpage created to practice frontend development fundamentals and responsive design.
 </p>
 
----
+
 
 ## Overview
 
@@ -17,7 +17,7 @@ The project presents a birthday greeting experience with custom sections, images
 
 This project was built while learning frontend development concepts through **Scrimba's Frontend Developer Path** and helped strengthen my understanding of HTML structure, CSS styling, and webpage design.
 
----
+
 
 ## Features
 
@@ -28,7 +28,7 @@ This project was built while learning frontend development concepts through **Sc
 - 📱 Responsive layout
 - 💻 Clean and simple user interface
 
----
+
 
 ## Preview
 
@@ -36,7 +36,7 @@ This project was built while learning frontend development concepts through **Sc
  You can see here: https://chic-strudel-0e8fcf.netlify.app/
 </p>
 
----
+
 
 ## Tech Stack
 
@@ -45,7 +45,7 @@ This project was built while learning frontend development concepts through **Sc
 | HTML5 | Website structure |
 | CSS3 | Styling, layout, and animations |
 
----
+
 
 ## 📂 Project Structure
 
@@ -61,7 +61,7 @@ birthday-gift-site/
 └── README.md
 ```
 
----
+
 
 ## Features Demonstrated
 
@@ -74,7 +74,7 @@ This project demonstrates:
 - CSS hover interactions
 - Creating visually appealing web pages
 
----
+
 
 ## Learning Outcomes
 
@@ -87,7 +87,7 @@ Through this project, I practiced:
 - Improving frontend development workflow
 - Understanding user experience principles
 
----
+
 
 ## Future Improvements
 
@@ -100,7 +100,7 @@ Planned enhancements:
 - [ ] Improve mobile responsiveness
 - [ ] Add multiple birthday themes
 
----
+
 
 ## Author
 
@@ -114,12 +114,12 @@ https://github.com/Sristi101
 LinkedIn:  
 https://linkedin.com/in/saidur-ahrar-sristi/
 
----
+
 
 ## Acknowledgements
 
 Inspired by the **Birthday Gift Website project** from **Scrimba's Frontend Developer Path**.
 
----
+
 
 ⭐ If you like this project, consider giving it a star!
