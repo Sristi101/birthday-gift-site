@@ -33,7 +33,7 @@ This project was built while learning frontend development concepts through **Sc
 ## Preview
 
 <p align="center">
- You can try this: https://chic-strudel-0e8fcf.netlify.app/
+ You can see here: https://chic-strudel-0e8fcf.netlify.app/
 </p>
 
 ---
