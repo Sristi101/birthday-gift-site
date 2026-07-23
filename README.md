@@ -38,7 +38,7 @@ This project was built while learning frontend development concepts through **Sc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
